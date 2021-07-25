@@ -44,6 +44,6 @@ No soy un experto pero si se hacer cosas en ellos, cada vez voy mejorando
    ![Vistas](https://komarev.com/ghpvc/?username=ryoga-rh&color=blue)
 <a align="center" href="https://arshiamidos.github.io">
     <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=ryoga-rh&show_icons=true&theme=tokyonight" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryoga-rh&layout=compact&theme=tokyonight" alt="languages" height="165">
+    <img src="https://github-readme-stats.vercel.app/api?username=ryoga-rh&show_icons=true&theme=tokyonight" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryoga-rh&theme=blue-green" alt="languages" height="165">
     </p>
 </a>
