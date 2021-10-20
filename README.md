@@ -37,8 +37,6 @@ No soy un experto pero si se hacer cosas en ellos, cada vez voy mejorando
 ![ATOM](https://img.shields.io/badge/Atom-0000ff?style=for-the-badge&logo=Atom&logoColor=black)
     <br>
 ![PYCHAM](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
-    <br>
-![NOTE](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)
 
 # Estadisticas
    ![Vistas](https://komarev.com/ghpvc/?username=ryoga-rh&color=blue)
