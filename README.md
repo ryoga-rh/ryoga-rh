@@ -1,8 +1,3 @@
-<div>
-    <img src="https://media.discordapp.net/attachments/775505367404511254/858511587173072936/emoji.png" width="60" height="60"/>
-    <img src="https://media.discordapp.net/attachments/775505367404511254/858511801552601118/emoji.png" width="60" height="60" align="right"/> 
-</div>
-
 Hola soy _Ryoga rh_ soy un programador en varios lenguajes y librerias, estoy aprendiendo para mejorar y distraerme de mis problemas
 
 ## Mis conocimientios (lenguajes y librerias) 
